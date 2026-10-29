@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# formula / logo SVGs, rebuilt by build_demo.py
+assets/cache/
+# scratch output
+_*/
+_*.pptx
+_*.png
+demo/_fig/
+~$*.pptx
